@@ -43,7 +43,7 @@ namespace prototipo01
             this.Hide();
             Dashboard dashboard = new Dashboard();
             dashboard.Show();
-            /*PVTO EL QUE LO LEA*/
+            /*LORD */
         }
     }
 }
